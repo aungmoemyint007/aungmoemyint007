@@ -2,12 +2,15 @@
 
 # 👋 Hi, I'm Aung Moe Myint
 
-### ☁️ Junior Cloud Engineer | 🔐 Cybersecurity Student
+### ☁️ Junior Cloud Engineer | 🔐 Cybersecurity Student | ⚙️ DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=760&lines=Junior+Cloud+Engineer;Cybersecurity+Student+at+UIT+Myanmar;AWS+%7C+Azure+%7C+Cloud+Security;Docker+%7C+Kubernetes+%7C+Terraform;DevOps+%7C+DevSecOps+%7C+Automation;Build.+Automate.+Deploy.+Secure.+🚀" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=780&lines=Junior+Cloud+Engineer;Cybersecurity+Student+at+UIT+Myanmar;AWS+%7C+Azure+%7C+Cloud+Security;Docker+%7C+Kubernetes+%7C+Terraform;DevOps+%7C+DevSecOps+%7C+Automation;Build.+Automate.+Deploy.+Secure.+🚀" alt="Typing animation"/>
 
-<br><br>
+<br>
 
+<a href="https://github.com/aungmoemyint007">
+  <img src="https://komarev.com/ghpvc/?username=aungmoemyint007&label=PROFILE+VIEWS&style=for-the-badge&color=00BFFF" alt="Profile views"/>
+</a>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22C55E?style=for-the-badge" alt="Open to collaborate"/>
 
@@ -15,223 +18,130 @@
 
 ---
 
-## 🐍 Live Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg">
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```yaml
 name: Aung Moe Myint
+role: Junior Cloud Engineer
+education: Cybersecurity Student at UIT Myanmar
 location: Myanmar
 
-current_role:
-  - Junior Cloud Engineer
-  - Cybersecurity Student
+current_focus:
+  - Cloud Computing
+  - DevOps and DevSecOps
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Container Orchestration
+  - Cybersecurity Operations
+  - Machine Learning Security
 
-education:
-  university: University of Information Technology
-  degree: Computer Science
-  specialization: Cybersecurity
-  year: Fourth Year
-
-career_focus:
-  - Cloud Engineering
-  - Cloud Security
-  - DevOps
-  - DevSecOps
-  - Infrastructure Automation
-
-currently_preparing:
-  - AWS Certified Solutions Architect Associate
+career_goal:
+  - Cloud Engineer
+  - DevOps Engineer
+  - DevSecOps Engineer
 ```
 
-* ☁️ Working toward becoming a professional **Cloud and DevSecOps Engineer**
-* 🏗️ Building secure and automated cloud infrastructure
-* 🐳 Working with **Docker, Kubernetes, Terraform and Jenkins**
-* 🔄 Creating CI/CD pipelines with **GitHub Actions and Jenkins**
-* 🔐 Interested in **Cloud Security, Blue Team Operations, SOC and CTFs**
-* 🐧 Using **Linux, Bash and Python** for scripting and automation
-* 🤖 Developing a Machine Learning–based Intrusion Detection System
-* 📚 Continuously improving my AWS, Azure, networking and security skills
+* ☁️ Learning and building projects with **AWS and Microsoft Azure**
+* ⚙️ Interested in **DevOps, DevSecOps, CI/CD and automation**
+* 🐳 Working with **Docker, Kubernetes, Amazon EKS and Amazon ECR**
+* 🏗️ Provisioning cloud infrastructure using **Terraform**
+* 🔐 Studying **Cybersecurity Operations, Cloud Security and Network Security**
+* 🤖 Developing an **AI-Based Intrusion Detection System**
+* 🐧 Practising **Linux administration, networking and scripting**
+* 📚 Continuously building hands-on, real-world projects
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Current Projects
+
+### 🔐 AI-Based Intrusion Detection System
+
+A machine-learning-based security system that analyses network traffic and identifies suspicious activities.
+
+**Technologies:**
+
+`Python` · `Flask` · `Pandas` · `Scikit-learn` · `Random Forest` · `Scapy` · `SQLite`
+
+### ☁️ Automated Secure Infrastructure on AWS
+
+A secure and automated cloud environment deployed using Terraform and Amazon EKS.
+
+**Technologies:**
+
+`AWS` · `Terraform` · `Amazon EKS` · `Amazon ECR` · `RDS` · `Docker` · `GitHub Actions`
+
+### ⚙️ DevOps and Cloud Labs
+
+Hands-on practical projects involving Linux, Jenkins, Docker, Kubernetes, Git, DVC, AWS and Azure.
+
+---
+
+## 🧠 Technology Stack
+
+### ☁️ Cloud Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS"/>
+  <img src="https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon ECR"/>
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS"/>
+</p>
+
+### ⚙️ DevOps and Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+</p>
+
+### 💻 Programming and Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### 🐧 Systems and Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+</p>
+
+### 🔐 Cybersecurity and Data
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logoColor=white" alt="Snort"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Area                       | What I Am Learning and Building                         |
-| :------------------------- | :------------------------------------------------------ |
-| ☁️ Cloud Engineering       | AWS, Azure, networking and scalable infrastructure      |
-| 🚀 DevOps                  | CI/CD, containers, Kubernetes and automation            |
-| 🛡️ DevSecOps              | Secure pipelines, secrets management and cloud security |
-| 🏗️ Infrastructure as Code | Terraform and reusable infrastructure modules           |
-| 🔐 Cybersecurity           | SOC, Blue Team, network analysis and threat detection   |
-| 🤖 Machine Learning        | ML-based intrusion and attack detection                 |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aungmoemyint007&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Aung Moe Myint's GitHub statistics"/>
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Achievement                                     |              Result             |
-| :---------------------------------------------- | :-----------------------------: |
-| 🥇 Myanmar Cyber Security Challenge 2025        |           **Rank #4**           |
-| 🏅 Myanmar Cyber Security Challenge 2024        |           **Rank #17**          |
-| 🌏 Asia Pacific Youth Internet Governance Forum | **Selected Participant – 2026** |
-| 🚩 Capture The Flag Competitions                |      **Active CTF Player**      |
-| ☁️ Cloud and DevOps Journey                     |     **Continuous Learning**     |
-
-</div>
-
----
-
-# 🧰 Technology Stack
-
-## ☁️ Cloud Platforms
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
-
-</p>
-
-## 🚀 DevOps and Infrastructure
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-
-</p>
-
-## 💻 Programming and Scripting
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
-
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-
-</p>
-
-## 🐧 Operating Systems and Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-
-</p>
-
-## 🗄️ Databases and Monitoring
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-
-</p>
-
----
-
-## 🛡️ Cybersecurity Interests
-
-```text
-┌──────────────────────────────────────────────┐
-│  🔹 Cloud Security                          │
-│  🔹 Security Operations Center              │
-│  🔹 Blue Team Operations                    │
-│  🔹 Network Traffic Analysis                │
-│  🔹 Intrusion Detection Systems             │
-│  🔹 Threat Detection and Incident Response  │
-│  🔹 DevSecOps and Security Automation       │
-│  🔹 Capture The Flag Competitions           │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## 🚀 Current Projects
-
-### 🤖 Machine Learning Intrusion Detection System
-
-An intelligent security system that analyzes network traffic and detects malicious activities using machine learning.
-
-**Technologies:** Python, Pandas, Scikit-learn, Flask, Scapy and CICIDS2017
-
-### ☁️ Automated Secure AWS Infrastructure
-
-Secure cloud infrastructure provisioned automatically using Terraform and deployed through a CI/CD pipeline.
-
-**Technologies:** AWS, Terraform, Docker, Amazon ECR, Amazon EKS and GitHub Actions
-
-### 🛡️ Security Operations Dashboard
-
-A SOC-style dashboard for visualizing alerts, attack categories, network traffic and security events.
-
-**Technologies:** Python, Flask, MySQL, Chart.js and security datasets
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aungmoemyint007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aung Moe Myint's GitHub statistics"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmoemyint007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmoemyint007&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aungmoemyint007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=aungmoemyint007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -241,30 +151,67 @@ A SOC-style dashboard for visualizing alerts, attack categories, network traffic
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aungmoemyint007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aungmoemyint007&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Learning Roadmap
+
+```text
+Linux & Networking
+        ↓
+Git & GitHub
+        ↓
+Docker & Containerization
+        ↓
+CI/CD with Jenkins and GitHub Actions
+        ↓
+AWS & Microsoft Azure
+        ↓
+Terraform Infrastructure as Code
+        ↓
+Kubernetes and Amazon EKS
+        ↓
+Cloud Security and DevSecOps
+```
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/aungmoemyint007">
-  <img src="https://img.shields.io/badge/GitHub-aungmoemyint007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-aungmoemyint007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL_ADDRESS">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-  <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 </div>
@@ -273,12 +220,8 @@ A SOC-style dashboard for visualizing alerts, attack categories, network traffic
 
 <div align="center">
 
-## ☁️ Build. Automate. Deploy. Secure.
+### 💬 “Build. Automate. Deploy. Monitor. Secure.”
 
-### Keep Learning • Keep Building • Keep Securing 🚀
-
-```text
-Junior Cloud Engineer | Cybersecurity Student | DevOps Enthusiast
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
