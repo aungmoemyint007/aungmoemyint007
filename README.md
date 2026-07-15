@@ -8,11 +8,22 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=aungmoemyint007&label=PROFILE+VIEWS&style=for-the-badge&color=0891B2" alt="Profile views"/>
-
-<img src="https://img.shields.io/github/followers/aungmoemyint007?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-22C55E?style=for-the-badge" alt="Open to collaborate"/>
+
+</div>
+
+---
+
+## 🐍 Live Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -231,20 +242,6 @@ A SOC-style dashboard for visualizing alerts, attack categories, network traffic
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aungmoemyint007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/aungmoemyint007/aungmoemyint007/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
