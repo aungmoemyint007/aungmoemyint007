@@ -1,38 +1,44 @@
-<h1 align="center">👋 Hi, I'm Aung Moe Myint</h1>
-
-<h3 align="center">
-🚀 DevOps Engineer in Progress | ☁️ Cloud Enthusiast | 🔐 Future DevSecOps Engineer
-</h3>
+<h1 align="center">Hi 👋 I'm Aung Moe Myint</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+in+Progress;Cloud+%26+Automation+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Linux+%7C+CI%2FCD+%7C+DevSecOps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;Cloud+%26+Automation+Enthusiast;Linux+%7C+AWS+%7C+CI%2FCD+Explorer" />
 </p>
+
+
+## 🔥
+
 
 ---
 
 ## 🚀 About Me
 
-- ☁️ Focused on **Cloud Computing, DevOps & MLOps**
-- ⚙️ Passionate about **automation, CI/CD pipelines, and infrastructure**
-- 🐧 Strong interest in **Linux, Networking & System Administration**
-- 🐳 Building skills in **Docker, Kubernetes, Terraform & AWS**
-- 🔐 Exploring **Cloud Security and DevSecOps practices**
-- 📚 Always learning and building real-world projects
-- 🎯 Goal: Become a **DevSecOps / Cloud Engineer**
+    
+   
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🧠 Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🧰 Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+---
+<img width="1254" height="1254" alt="ChatGPT Image Aug 19, 2026, 03_53_51 AM" src="https://github.com/user-attachments/assets/7b22d1f1-21a8-4eda-a0ff-b14fcfd668ca" />
 
 ---
 
-## 🔥 Current Focus
-
-```yaml
-Learning:
-  - AWS Cloud
-  - Kubernetes
-  - Terraform
-  - CI/CD Automation
-  - Cloud Security
-
-Building:
-  - Secure Cloud Infrastructure
-  - Containerized Applications
-  - DevOps Automation Pipelines
