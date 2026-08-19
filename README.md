@@ -19,7 +19,7 @@ fix plz  <h1 align="center">Hi 👋 I'm Aung Moe Myint</h1>
 - 🎯 Goal: Become a **DevSecOps / Cloud Engineer**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 🧠 Tech Stack
