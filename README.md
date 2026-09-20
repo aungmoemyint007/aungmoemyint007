@@ -41,8 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
----
-<img width="1254" height="1254" alt="ChatGPT Image Aug 19, 2026, 03_53_51 AM" src="https://github.com/user-attachments/assets/7b22d1f1-21a8-4eda-a0ff-b14fcfd668ca" />
 
 ---
 
