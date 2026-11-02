@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team;Cloud+Security+%7C+DevSecOps;CTF+Player+%40+UIT+Wisdoms" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/aungmoemyint007">
-    <img src="https://img.shields.io/badge/GitHub-aungmoemyint007-181717?style=flat-square&logo=github" />
-  </a>
-</p>
-
 ---
 
 ## `$ whoami`
@@ -53,16 +47,7 @@
 - 🥇 **Myanmar Cyber Security Challenge (MCSC) 2025** — Rank 4
 - 🥇 **Myanmar Cyber Security Challenge (MCSC) 2024** — Rank 17
 
-**Long-term MCSC participant (2024–2026)**
-
----
-
-## `$ github-stats`
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aungmoemyint007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmoemyint007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Long-term participant in the Myanmar Cyber Security Challenge (2024–2026)**
 
 ---
 
