@@ -1,7 +1,7 @@
 # Hi, I'm Aung Moe Myint 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team;Cloud+Security+%7C+DevSecOps;CTF+Player+%40+UIT+Wisdoms" />
+  <img alt="Cybersecurity, Red Team, Cloud Security, DevSecOps and CTF player" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Red+Team;Cloud+Security+%7C+DevSecOps;CTF+Player+%40+UIT+Wisdoms" />
 </p>
 
 ---
@@ -44,15 +44,15 @@
 
 - 🏆 **UIT CTF 2026** — Champion
 - 🏆 **Myanmar Cyber Security Challenge (MCSC) 2026** — Champion
-- 🥇 **Myanmar Cyber Security Challenge (MCSC) 2025** — Rank 4
-- 🥇 **Myanmar Cyber Security Challenge (MCSC) 2024** — Rank 17
+- 🏅 **Myanmar Cyber Security Challenge (MCSC) 2025** — Rank 4
+- 🏅 **Myanmar Cyber Security Challenge (MCSC) 2024** — Rank 17
 
 **Long-term participant in the Myanmar Cyber Security Challenge (2024–2026)**
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Decorative contribution snake animation from Platane" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
